@@ -1,7 +1,6 @@
 {
     "name": "aazhar/myorcid-php",
     "description": "Library for ORCID web services",
-    "keywords": ["orcid", "php", "oauth" , "work"],
     "license": "MIT",
     "require": {
         "php": ">=5.6.0",
