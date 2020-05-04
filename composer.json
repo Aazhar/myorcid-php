@@ -1,5 +1,5 @@
 {
-    "name": "aazhar/orcid-php",
+    "name": "aazhar/myorcid-php",
     "description": "Library for ORCID web services",
     "keywords": ["orcid", "php", "oauth" , "work"],
     "license": "MIT",
