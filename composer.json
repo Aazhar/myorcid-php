@@ -12,6 +12,8 @@
         "mockery/mockery": "0.9.*"
     },
     "autoload": {
-          "classmap": ["src/"]
+          "psr-4": {
+            "Orcid\\": "src/"
+          }
         }
 }
